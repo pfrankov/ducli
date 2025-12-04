@@ -1,0 +1,12 @@
+.base {
+  border: 1px solid #eee;
+  padding: 12px;
+  border-radius: 6px;
+}
+.box-header {
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+.box-body {
+  color: #333;
+}
