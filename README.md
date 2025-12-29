@@ -26,6 +26,15 @@ component logic, structure, and styles to identify components that can be refact
 
 It uses AI embeddings to understand structure even when variable names or formatting differ.
 
+<table>
+  <tr valign="top">
+    <td><img width="100%" src="https://github.com/user-attachments/assets/8840e100-8b43-49a7-8cc7-6a35228b0732" /></td>
+    <td><img width="100%" src="https://github.com/user-attachments/assets/6adfb624-5b50-4245-ac95-2f6e0c4e8e19" />
+</td>
+  </tr>
+</table>
+
+
 ## 🚀 Quick Start
 
 ### 1. Run directly
