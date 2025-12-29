@@ -7,6 +7,9 @@
   <h1>Duplicalis</h1>
   <p>Duplicate React Component Analyzer for large codebases.</p>
   <p>
+    <a href="https://www.npmjs.com/package/duplicalis">
+      <img alt="npm" src="https://img.shields.io/npm/v/duplicalis.svg" />
+    </a>
     <img alt="license" src="https://img.shields.io/badge/license-Apache--2.0-blue.svg" />
     <img alt="node" src="https://img.shields.io/badge/node-%3E=18-brightgreen.svg" />
     <img alt="type" src="https://img.shields.io/badge/type-module-informational.svg" />
